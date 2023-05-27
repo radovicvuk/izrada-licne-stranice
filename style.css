@@ -1,0 +1,73 @@
+
+.div-1 ul{
+    margin-left: 20px;
+}
+
+.div-2 ol{
+    margin-left: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+.portfolio{
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+    background-color: beige;
+    border-radius: 15px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.portfolio:hover{
+    background-color: orange;
+    transition: 0.5s;
+}
+
+a{
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+.div-3 i{
+    color: orange;
+}
+
+.kontakt-anchor{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.slika{
+    border-radius:200px; 
+    border: solid #964B00;
+    border-width: 7px;
+}
+
+.portfolio-page caption{
+    font-size: 34px;
+    font-weight: 700px;
+    margin: 10px;
+}
+
+.portfolio-page {
+    text-align: center;
+}
+
+.portfolio-page td{
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.portfolio-page tr{
+    margin: 10px;
+}
+
+.portfolio-page table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 20px;
+}
+
